@@ -1,3 +1,6 @@
+![Logo](https://i.hizliresim.com/rqbrefw.png)
+
+
 # Tested And Organized Botnet/Malware Archive
 TÜRKÇE HALİ İÇİN [OKUBENI.md](https://github.com/MaliFolder/WORKING-Botnet-RAT-Archive/blob/main/OKUBENI.md) OKUYUN
 
@@ -18,7 +21,5 @@ Don't be silly, always test in a virtual machine, i do not take any responsibili
 ## Contact Me
 
 - Discord: MaliciousFolder#1225
-
-![Logo](https://i.hizliresim.com/rqbrefw.png)
 
     
