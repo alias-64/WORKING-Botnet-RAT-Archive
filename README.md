@@ -1,4 +1,4 @@
-<img src="Assets/rqbrefw.jpg" width="100">
+<img src="rqbrefw.jpg" width="600">
 
 
 # Tested And Organized Botnet/Malware Archive
