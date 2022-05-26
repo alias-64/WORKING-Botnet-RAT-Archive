@@ -1,4 +1,4 @@
-![Logo](https://i.hizliresim.com/rqbrefw.png =100x20)
+<img src="Assets/rqbrefw.jpg" width="100">
 
 
 # Tested And Organized Botnet/Malware Archive
