@@ -1,4 +1,4 @@
-<img src="rqbrefw.jpg" width="600">
+<img src="banner.jpg" width="600">
 
 # Test Edilmiş Ve Çalışan Botnet/Malware Arşivi
 Bu projeyi aktif tutmak için elimden geleni yapacağım, verilen dosyaların hepsi bunu editlediğim tarihte çalışmaktadır (03/07/2022)
