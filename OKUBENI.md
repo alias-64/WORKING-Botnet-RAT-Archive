@@ -1,6 +1,6 @@
 <img src="banner.jpg" width="600">
 
-# Test Edilmiş Ve Çalışan Botnet/Malware Arşivi
+# Test Edilmiş Ve Çalışan Botnet/Zararlı Yazılım Arşivi
 Bu projeyi aktif tutmak için elimden geleni yapacağım, verilen dosyaların hepsi bunu editlediğim tarihte çalışmaktadır (03/07/2022)
 
 
@@ -11,7 +11,7 @@ Bu projeyi aktif tutmak için elimden geleni yapacağım, verilen dosyaların he
 
 - RAT'lar
 
-- Stealer'lar
+- Info Stealer'lar
 
 - Ve Fazlası!
 ## Dikkat!
