@@ -12,9 +12,9 @@ I will try my best to keep this repo up to date, all of the given files are work
 
 - Botnet Panels
 
-- RATs
+- Remote Administration Trojans (RATs)
 
-- Stealers
+- Info Stealers
 
 - And More!
 ## Warning!
