@@ -22,6 +22,6 @@ I will try my best to keep this repo up to date, all of the given files are work
 Don't be silly, always test in a virtual machine, i do not take any responsibility for any damages.
 ## Contact Me
 
-- Discord: MaliciousFolder#1225
+- Discord: alias#1111
 
     
