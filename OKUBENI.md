@@ -19,6 +19,6 @@ Bu projeyi aktif tutmak için elimden geleni yapacağım, verilen dosyaların he
 Test yaparken sanal makina kullanmayı unutmayın, oluşacak hasarlardan sorumlu değilim.
 ## Bana Ulaş
 
-- Discord: MaliciousFolder#1225
+- Discord: alias#1111
 
     
