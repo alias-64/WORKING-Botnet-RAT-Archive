@@ -19,7 +19,7 @@ It's been almost a year since i updated this repo, most the files are probably o
 - And More!
 ## Warning!
 
-Don't be silly, always test in a virtual machine, i do not take any responsibility for any damages.
+Use common sense, always test in a virtual machine, i do not take any responsibility for any damages.
 ## Contact Me
 
 - Discord: alias#1111
